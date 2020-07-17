@@ -16,7 +16,7 @@ namespace DivisionLib
             {
                 a1 = 1;
                 a2 =1 ;
-                throw;
+                throw new System.Exception("Cannot divide by Incorrect");
             }
             
             double result =a1/a2;
