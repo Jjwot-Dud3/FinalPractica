@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\ConsoleApp\bin\Debug\netcoreapp2.1\DivisionLib.dll
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\ConsoleApp\bin\Debug\netcoreapp2.1\DivisionLib.pdb
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.pdb
