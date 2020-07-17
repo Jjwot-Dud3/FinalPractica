@@ -14,8 +14,8 @@ namespace DivisionLib
             }
             catch (System.Exception)
             {
-                a1 = 0;
-                a2 =0 ;
+                a1 = 1;
+                a2 =1 ;
                 throw;
             }
             
