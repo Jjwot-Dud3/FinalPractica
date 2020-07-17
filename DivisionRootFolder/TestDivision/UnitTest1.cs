@@ -31,7 +31,7 @@ namespace Tests
         {
             double value1 = 124;
             double value2 = 12;
-            double expected = 11;
+            double expected = 10.333333333333334;
            
             Assert.AreEqual(expected, DivisionLib.Division.DivisionMethod(ref value1, ref value2));
 
@@ -43,7 +43,7 @@ namespace Tests
             double value2 = 12;
             double expected = 15;
            
-            Assert.AreEqual(expected, DivisionLib.Division.DivisionMethod(ref value1, ref value2));
+            Assert.AreNotEqual(expected, DivisionLib.Division.DivisionMethod(ref value1, ref value2));
 
         }
         [Test]
@@ -61,7 +61,7 @@ namespace Tests
         {
             string value1 = "a";
             string value2 = "a";
-            double expected = 11;
+            double expected = 1;
            
             Assert.AreEqual(expected, DivisionLib.Division.DivisionMethod(ref value1, ref value2));
 
