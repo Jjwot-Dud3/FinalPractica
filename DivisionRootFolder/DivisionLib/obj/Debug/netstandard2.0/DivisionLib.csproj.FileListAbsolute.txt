@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\DivisionLib\bin\Debug\netstandard2.0\DivisionLib.deps.json
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\DivisionLib\bin\Debug\netstandard2.0\DivisionLib.dll
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\DivisionLib\bin\Debug\netstandard2.0\DivisionLib.pdb
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\DivisionLib\obj\Debug\netstandard2.0\DivisionLib.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\DivisionLib\obj\Debug\netstandard2.0\DivisionLib.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\DivisionLib\obj\Debug\netstandard2.0\DivisionLib.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\DivisionLib\obj\Debug\netstandard2.0\DivisionLib.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\DivisionLib\obj\Debug\netstandard2.0\DivisionLib.dll
+C:\Users\Gabriel\Desktop\InS368-01\FinalPractica\DivisionRootFolder\DivisionLib\obj\Debug\netstandard2.0\DivisionLib.pdb

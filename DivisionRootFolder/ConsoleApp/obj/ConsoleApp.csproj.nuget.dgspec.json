@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gabriel\\Desktop\\InS368-01\\FinalPractica\\DivisionRootFolder\\ConsoleApp\\ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gabriel\\Desktop\\InS368-01\\FinalPractica\\DivisionRootFolder\\ConsoleApp\\ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\InS368-01\\FinalPractica\\DivisionRootFolder\\ConsoleApp\\ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "C:\\Users\\Gabriel\\Desktop\\InS368-01\\FinalPractica\\DivisionRootFolder\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Desktop\\InS368-01\\FinalPractica\\DivisionRootFolder\\ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Gabriel\\Desktop\\InS368-01\\FinalPractica\\DivisionRootFolder\\DivisionLib\\DivisionLib.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\Desktop\\InS368-01\\FinalPractica\\DivisionRootFolder\\DivisionLib\\DivisionLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Gabriel\\Desktop\\InS368-01\\FinalPractica\\DivisionRootFolder\\DivisionLib\\DivisionLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\InS368-01\\FinalPractica\\DivisionRootFolder\\DivisionLib\\DivisionLib.csproj",
+        "projectName": "DivisionLib",
+        "projectPath": "C:\\Users\\Gabriel\\Desktop\\InS368-01\\FinalPractica\\DivisionRootFolder\\DivisionLib\\DivisionLib.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Desktop\\InS368-01\\FinalPractica\\DivisionRootFolder\\DivisionLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
